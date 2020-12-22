@@ -50,3 +50,7 @@
 
 # Embedded web-server pid file
 /.web-server-pid
+.idea/modules.xml
+.idea/Projet-6.iml
+.idea/vcs.xml
+.idea/workspace.xml
